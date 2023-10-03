@@ -11,3 +11,7 @@ body{
   background-color: beige;
 }
 
+.avatar{
+  width: 300px;
+  border-radius: 50%;
+}
